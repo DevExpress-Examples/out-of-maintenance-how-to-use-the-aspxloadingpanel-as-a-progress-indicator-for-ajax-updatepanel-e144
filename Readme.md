@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/UpdatePanelProgress/Default.aspx) (VB: [Default.aspx](./VB/UpdatePanelProgress/Default.aspx))
+* [Default.aspx.cs](./CS/UpdatePanelProgress/Default.aspx.cs) (VB: [Default.aspx](./VB/UpdatePanelProgress/Default.aspx))
+<!-- default file list end -->
 # How to use the ASPxLoadingPanel as a progress indicator for AJAX UpdatePanel
 
 
